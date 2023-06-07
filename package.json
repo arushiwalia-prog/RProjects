@@ -1,0 +1,36 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arushiwalia-prog/RProjects.git"
+  },
+  "keywords": [],
+  "author": "RK Arushi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arushiwalia-prog/RProjects/issues"
+  },
+  "homepage": "https://github.com/arushiwalia-prog/RProjects#readme",
+  "devDependencies": {
+    "parcel": "^2.9.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList": [
+    "last 2 version of chrome",
+    "last 2 firefox version",
+    "last 2 edge version",
+    ""
+  ]
+}
